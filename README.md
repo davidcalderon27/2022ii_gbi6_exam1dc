@@ -1,11 +1,11 @@
 GBI6_Examen Parcial
 
-##datos personales
+#datos personales
 
 nombre: David Calderon
 
 
-##Carateristicas del computador 
+#Carateristicas del computador 
 
 tipo de sistema: Sistema oprativo de 64 bits,procesadorx64
 
